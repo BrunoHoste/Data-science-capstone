@@ -3,3 +3,4 @@ This repo contain all the files for the textprediction shiny app that was made a
 The app itself can be found on: 
 http://brunohoste.shinyapps.io/textprediction/
 The slides with some more explanation on:
+https://rpubs.com/brunoBLLA/689747
